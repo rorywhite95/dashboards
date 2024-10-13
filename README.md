@@ -7,4 +7,5 @@ It sells organic, ecological and sustainable produce to B2C customers with the a
 
 Dashboard built using SQL and Tableau:
 
-![gz dashboard](https://github.com/user-attachments/assets/b709b15a-ec7a-4efc-8655-6bb85ce23f78)
+![2024-10-13 (4)](https://github.com/user-attachments/assets/7c72af6e-6f43-4aa9-bdbc-1a2786561bd3)
+
